@@ -11,9 +11,9 @@
   <tr><td rowspan="2">1</td>
       <td>Introducción a Ubuntu 18.04 LTS</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-instalacion.pdf">clase_w0-instalacion.pdf</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-fichydirs.pdf">clase_w0-fichydirs.pdf</a></li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w0-ubuntu-procesos.pdf">clase_w0-procesos.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w0-ubuntu-instalacion.pdf">clase_w0-instalacion.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w0-ubuntu-fichydirs.pdf">clase_w0-fichydirs.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w0-ubuntu-procesos.pdf">clase_w0-procesos.pdf</a></li>
       </ul></td>
       <td><ul type="1">
         <li><a href="https://www.youtube.com/watch?v=MwfB9lnB0_A">Instalación de Ubuntu</a></li>
@@ -23,7 +23,7 @@
   </tr>
   <tr><td>Introducción al lenguaje C </td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w1-introduccionc.pdf">clase_w1-introduccionc.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w1-introduccionc.pdf">clase_w1-introduccionc.pdf</a></li>
       </ul></td>
       <td>
       <ul type="1">
@@ -34,7 +34,7 @@
   <tr><td>2</td>
       <td>Introducción a los sistemas operativos</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w2-introduccion.pdf">clase_w2-introduccion.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w2-introduccion.pdf">clase_w2-introduccion.pdf</a></li>
       </ul></td>
       <td>
       <ul type="1">
@@ -49,7 +49,7 @@
   <tr><td>3</td>
       <td>Servicios del Sistema Operativo </td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w3-serviciosdelso.pdf">clase_w3-serviciosdelso.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w3-serviciosdelso.pdf">clase_w3-serviciosdelso.pdf</a></li>
       </ul></td>
       <td>
       <ul type="1">
@@ -62,7 +62,7 @@
   <tr><td>4</td>
       <td>Introducción a la gestión de procesos</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w4-procesos.pdf">clase_w4-procesos.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w4-procesos.pdf">clase_w4-procesos.pdf</a></li>
       </ul></td>
       <td>
       <ul type="1">
@@ -74,7 +74,7 @@
   <tr><td>5</td>
       <td>Planificación de procesos</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w5-planificacion.pdf">clase_w5-planificacion.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w5-planificacion.pdf">clase_w5-planificacion.pdf</a></li>
       </ul></td>
       <td>
       <ul type="1">
@@ -86,7 +86,7 @@
   <tr><td>6</td>
       <td>Procesos e hilos</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w6-hilos.pdf">clase_w6-hilos.pdf</a></li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w6-hilos.pdf">clase_w6-hilos.pdf</a></li>
       </ul></td>
       <td>
       <ul type="1">
@@ -99,8 +99,8 @@
   <tr><td>7</td>
       <td>Comunicación entre procesos</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w7a-senyales.pdf">clase_w7a-senyales.pdf</a> </li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w7b-pipes.pdf">clase_w7b-pipes.pdf</a> </li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w7a-senyales.pdf">clase_w7a-senyales.pdf</a> </li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w7b-pipes.pdf">clase_w7b-pipes.pdf</a> </li>
       </ul></td>
       <td>
       <ul type="1">
@@ -115,7 +115,7 @@
   <tr><td>8</td>
       <td>Gestión de memoria</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w8-memoria.pdf">clase_w8-memoria.pdf</a> </li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w8-memoria.pdf">clase_w8-memoria.pdf</a> </li>
       </ul></td>
       <td>
       <ul type="1">
@@ -128,9 +128,9 @@
   <tr><td>9</td>
       <td>Concurrencia</td>
       <td><ul>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w9-concurrencia-introduccion.pdf">clase_w9-concurrencia-introduccion.pdf</a> </li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w10-concurrencia-servicios.pdf">clase_w10-concurrencia-servicios.pdf</a> </li>
-        <li> <a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w11-concurrencia-servidores.pdf">clase_w11-concurrencia-servidores.pdf</a> </li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w9-concurrencia-introduccion.pdf">clase_w9-concurrencia-introduccion.pdf</a> </li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w10-concurrencia-servicios.pdf">clase_w10-concurrencia-servicios.pdf</a> </li>
+        <li> <a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w11-concurrencia-servidores.pdf">clase_w11-concurrencia-servidores.pdf</a> </li>
       </ul></td>
       <td>
       <ul type="1">
@@ -144,9 +144,9 @@
   <tr><td>10</td>
       <td>Sistema de ficheros</td>
       <td><ul>
-        <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w12-sf-ficheros.pdf">clase_w12-sf-ficheros.pdf</a></li>
-        <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w13-sf-directorios.pdf">clase_w13-sf-directorios.pdf</a></li>
-        <li><a href="https://acaldero.github.io/slides/GII_Sistemas_Operativos/clase_w14-sf-sistfich.pdf">clase_w14-sf-sistfich.pdf</a></li>
+        <li><a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w12-sf-ficheros.pdf">clase_w12-sf-ficheros.pdf</a></li>
+        <li><a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w13-sf-directorios.pdf">clase_w13-sf-directorios.pdf</a></li>
+        <li><a href="https://acaldero.github.io/uc3m_so/transparencias/clase_w14-sf-sistfich.pdf">clase_w14-sf-sistfich.pdf</a></li>
       </ul></td>
       <td>
       <ul type="1">
@@ -164,4 +164,10 @@
  </small>
 </html>
 
+
+### Ejemplos
+
+ * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/README.md#posix-threads">POSIX threads</a>
+ * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/README.md#comunicación-y-sincronización-entre-hilos">Comunicación y sincronización entre hilos</a>
+ * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/README.md#servidores-concurrentes">Servidores concurrentes</a>
 
