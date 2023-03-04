@@ -1,6 +1,6 @@
 ## Materiales usados en ARCOS.INF.UC3M.ES bajo licencia [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) 
 
-## Sistemas Operativos (2021-2022)
+## Sistemas Operativos
 
 1. ### <ins>POSIX threads</ins>
 
