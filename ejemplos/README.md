@@ -9,7 +9,7 @@
       **Ejemplo**: Programar una función main que crea 5 hilos y espera a que todos los hilos terminen. Cada hilo imprime "Hello world from thread &lt;id. del hilo&gt;!\n".
  
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w06_hilos/ths_creatjoin.c">ths_creatjoin.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w06_hilos/ths_creatjoin.c">ths_creatjoin.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -28,8 +28,8 @@
       **Ejemplo**: Programar un ejemplo de condición de carrera entre dos hilos.
  
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w10_cys/race.c">race.c</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w10_cys/race_sol.c">race_sol.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w10_cys/race.c">race.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w10_cys/race_sol.c">race_sol.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -49,8 +49,8 @@
       **Ejemplo**: Programar un ejemplo de interbloqueo entre dos hilos.
  
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w10_cys/interlock.c">interlock.c</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w10_cys/interlock_sol.c">interlock_sol.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w10_cys/interlock.c">interlock.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w10_cys/interlock_sol.c">interlock_sol.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -70,8 +70,8 @@
       **Ejemplo**: Programar un ejemplo de sincronización entre un hilo main y los hilos creados con pthread_create.
  
       **Códigos**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w10_cys/sync_child_mnc.c">sync_child_mnc.c</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w10_cys/sync_child_mnc_sol.c">sync_child_mnc_sol.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w10_cys/sync_child_mnc.c">sync_child_mnc.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w10_cys/sync_child_mnc_sol.c">sync_child_mnc_sol.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -91,7 +91,7 @@
       **Ejemplo**: Programar un ejemplo de productor-consumidor (buffer acotado) entre dos hilos usando semáforos.
  
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w10_cys/p-c_sem.c">p-c_sem.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w10_cys/p-c_sem.c">p-c_sem.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -108,7 +108,7 @@
       **Ejemplo**: Programar un ejemplo de lectores-escritores entre dos hilos usando semáforos.
  
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w10_cys/r-w_sem.c">r-w_sem.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w10_cys/r-w_sem.c">r-w_sem.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -121,7 +121,7 @@
       **Ejemplo**: Programar un ejemplo de productores-consumidores (bounded buffer) entre dos hilos usando mutex + conditions.
  
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w10_cys/p-c_mnc.c">p-c_mnc.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w10_cys/p-c_mnc.c">p-c_mnc.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -138,7 +138,7 @@
       **Ejemplo**: Programar un ejemplo de lectores-escritores entre dos hilos usando mutex + conditions.
  
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w10_cys/r-w_mnc.c">r-w_mnc.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w10_cys/r-w_mnc.c">r-w_mnc.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -154,9 +154,9 @@
       **Ejemplo**: Programar una función main que simule un servidor que secuencialmente le llegan peticiones y las trata una a una.
 
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/peticion.h">peticion.h</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/peticion.c">peticion.c</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/1_sequential.c">1_sequential.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/peticion.h">peticion.h</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/peticion.c">peticion.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/1_sequential.c">1_sequential.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -173,9 +173,9 @@
       **Ejemplo**: Programar una función main que simula un servidor que le llegan peticiones, crea un proceso (fork) y el proceso hijo trata la petición asociada.
 
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/peticion.h">peticion.h</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/peticion.c">peticion.c</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/2_fork.c">2_fork.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/peticion.h">peticion.h</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/peticion.c">peticion.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/2_fork.c">2_fork.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -192,9 +192,9 @@
       **Ejemplo**: Programar una función main que simula un servidor que le llegan peticiones, crea un hilo y el hilo creado trata la petición asociada.
 
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/peticion.h">peticion.h</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/peticion.c">peticion.c</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/3_threads_ondemand.c">3_threads_ondemand.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/peticion.h">peticion.h</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/peticion.c">peticion.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/3_threads_ondemand.c">3_threads_ondemand.c</a>
 
       **Compilar y ejecutar**:
       ```
@@ -211,9 +211,9 @@
       **Ejemplo**: Programar una función main que simula un servidor que crea varios hilos que esperan en sus conditions asociadas, le llegan peticiones y para cada una manda una señal a un hilo pre-creado que se encarga de atender a dicha petición y volver a esperar en la condition al terminar.
 
       **Código**:
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/peticion.h">peticion.h</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/peticion.c">peticion.c</a>
-      * <a href="https://github.com/acaldero/labs/blob/main/GII_Sistemas_Operativos/w11_servidores/4_threads_pool.c">4_threads_pool.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/peticion.h">peticion.h</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/peticion.c">peticion.c</a>
+      * <a href="https://github.com/acaldero/uc3m_so/blob/main/ejemplos/w11_servidores/4_threads_pool.c">4_threads_pool.c</a>
 
       **Compilar y ejecutar**:
       ```
