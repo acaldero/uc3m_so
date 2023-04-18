@@ -74,7 +74,7 @@ void * receptor ( void * param )
        // signal end
        pthread_mutex_lock(&mutex);
        fin=1;
-       pthread_cond_signal(&no_vacio);
+       pthread_cond_broadcast(&no_vacio);
        pthread_mutex_unlock(&mutex);
 
        fprintf(stderr, "receptor: Finalizado\n");
